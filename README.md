@@ -13,6 +13,6 @@
 
 # Traducción del Capítulo 9
 <p>Traducción y Resumen sobre la Descarbonización</p>
-<a href=  >
-<img src=   >
+<a href="https://github.com/kechopul/tyhm/blob/main/CAPITULO_9_CORREGIDO.pdf">
+<img src="https://user-images.githubusercontent.com/85699248/122594066-eac00500-d03c-11eb-95b5-4a8e32e35070.jpg" alt="Capitulo9 width="300px">
 </a>
